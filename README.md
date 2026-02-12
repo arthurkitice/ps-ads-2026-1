@@ -1,0 +1,2 @@
+# ps-ads-2026-1
+Repositório da disciplina Eletiva II - Programação de Scripts, 5º semestre ADS matutino Fatec Franca 2026/1
