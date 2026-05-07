@@ -1,4 +1,4 @@
-// import './App.css'
+import './App.css'
 import React from 'react'
 import { BrowserRouter } from 'react-router-dom'
 import HeaderBar from './ui/HeaderBar'
@@ -33,7 +33,7 @@ function App() {
              por AuthProvider por meio do 'value'
          */}
           <AuthContext.Provider value={{ authState, setAuthState }} >
-            
+
             <HeaderBar />
 
             {/* Dentro da prop "sx", "m" significa "margin" */}
