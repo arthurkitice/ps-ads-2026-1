@@ -25,7 +25,7 @@ export default function FooterBar() {
           }
         }}
       >
-        Desenvolvido e mantido com <CoffeeIcon fontSize="small" /> por <a href="mailto:professor@faustocintra.com.br">Prof. Fausto Cintra</a>
+        Desenvolvido e mantido com <CoffeeIcon fontSize="small" /> por <a href="mailto:arthurkitice@gmail.com">Arthur Kitice</a>
       </Typography>
     </Box>
  </>
